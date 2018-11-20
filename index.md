@@ -5,8 +5,9 @@
 
 【募集内容】
 * 日程:  
-11/26(月)から11/29(木)の13:00-16:30または14:00-16:30 (3-3.5時間) 
-募集状況はこちらでご確認いただけます→https://docs.google.com/spreadsheets/d/1qKxoqX3yImobmqrAXO30tTf9g47kFnPwTViinDmUrg0/edit?usp=sharing
+11/26(月)から11/29(木)の13:00-16:30または14:00-16:30 (3-3.5時間)  
+募集状況はこちらでご確認いただけます  
+[https://docs.google.com/spreadsheets/d/1qKxoqX3yImobmqrAXO30tTf9g47kFnPwTViinDmUrg0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1qKxoqX3yImobmqrAXO30tTf9g47kFnPwTViinDmUrg0/edit?usp=sharing)  
 * 場所:  
 慶応義塾大学矢上キャンパス（神奈川県横浜市港北区日吉）
 今井研究室26棟2階　26-203
@@ -20,5 +21,5 @@
 * 交通費:  
 矢上キャンパス所属の場合なし、外部の場合実費支給
 * 応募・問い合わせ先：  
-今井研究室 福地庸介 [fukuchi@ailab.ics.keio.ac.jp](mailto:fukuchi@ailab.ics.keio.ac.jp)
+今井研究室 福地庸介 [fukuchi@ailab.ics.keio.ac.jp](mailto:fukuchi@ailab.ics.keio.ac.jp)  
 ご不明な点等ございます場合も、お気軽にこちらまでご連絡ください。
