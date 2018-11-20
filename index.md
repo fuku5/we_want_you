@@ -9,8 +9,8 @@
 募集状況はこちらでご確認いただけます。  
 [https://docs.google.com/spreadsheets/d/1qKxoqX3yImobmqrAXO30tTf9g47kFnPwTViinDmUrg0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1qKxoqX3yImobmqrAXO30tTf9g47kFnPwTViinDmUrg0/edit?usp=sharing)  
 * 場所:  
-慶應義塾大学矢上キャンパス（神奈川県横浜市港北区日吉）
-今井研究室26棟2階　26-203
+慶應義塾大学矢上キャンパス（神奈川県横浜市港北区日吉）今井研究室  
+26棟2階　26-203
 * 実験内容:  
 研究室で開発したシステムを使って他の実験参加者やエージェントと対話したり、動画を見て実験に関するアンケートに回答したりしていただきます。  
 特に難しかったり、頭や体を使うようなものではありません。
