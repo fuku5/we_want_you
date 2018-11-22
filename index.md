@@ -5,7 +5,8 @@
 
 【募集内容】
 * 日程:  
-~~11/26(月)から11/29(木)~~11/27(火)または11/28(水)の13:00-16:30または14:00-17:30 (3-3.5時間)  
+~~11/26(月)から11/29(木)の13:00-16:30または14:00-17:30~~  
+11/27(火)または11/28(水)の13:00-16:30 (3-3.5時間) 
 募集状況はこちらでご確認いただけます。  
 [https://docs.google.com/spreadsheets/d/1qKxoqX3yImobmqrAXO30tTf9g47kFnPwTViinDmUrg0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1qKxoqX3yImobmqrAXO30tTf9g47kFnPwTViinDmUrg0/edit?usp=sharing)  
 * 場所:  
